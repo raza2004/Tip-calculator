@@ -1,0 +1,45 @@
+h1 {
+    color: rgb(41, 6, 18);
+    font-size: 50px;
+    text-align:center;
+
+}
+/* 
+span#tip-word {
+    color:rgb(19, 93, 51);
+} */
+
+div#calculator{
+    color: rgb(26, 7, 47);
+    font-size: 35px;
+    width: 600px;
+    background-color: rgb(128, 227, 245);
+    border-radius: 25px;
+    padding: 50px;
+    margin: auto;
+}
+label{
+    display:inline-block;
+    width: 300px;
+    margin-right: 25px;
+    padding: 15px;
+}
+
+input{
+    margin-right: 50px;
+    width: 100px;
+    height: 25px;
+    padding: 2.5px 40px;
+    text-align: center;
+}
+
+#calculate{
+    background-color: rgb(59, 46, 236);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 35px;
+    font-size: 25px;
+    margin: 25px 200px 15px 200px;
+}
